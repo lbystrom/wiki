@@ -3,4 +3,6 @@
 
 # Svenska Bostäder Wiki
 ## Innehåll
-1. [E-tjänster](http://mywiki/e-tjanster#e-tjanster)
+### [E-tjänster](http://mywiki/e-tjanster#e-tjanster)
+### Områden
+### Allmänt
