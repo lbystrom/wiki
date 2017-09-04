@@ -5,5 +5,5 @@
 ## Innehåll
 ### E-tjänster
 [E-tjänster](http://mywiki/e-tjanster#e-tjanster)
-### Områden
-### Allmänt
+### Sidtyper
+### Blocktyper
