@@ -3,4 +3,4 @@
 
 # Svenska Bostäder Wiki
 ## Innehåll
-1. [link E-tjänster itself]: http://www.reddit.com 
+1. [E-tjänster](http://mywiki/e-tjanster#e-tjanster)
