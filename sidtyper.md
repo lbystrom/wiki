@@ -2,4 +2,4 @@
 <!-- SUBTITLE: A quick summary of Sidtyper -->
 
 # Sidtyper
-## Underrubrik
+## Vanlig/standard sida
