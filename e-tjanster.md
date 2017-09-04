@@ -7,4 +7,4 @@
 ## Boka bilplats
 
 ## Boka Tvättstuga
-[Läs mer]()
+[Läs mer](http://mywiki/e-tjanster/boka-tvattsuga#boka-tvattstuga)
