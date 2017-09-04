@@ -1,4 +1,4 @@
-<!-- TITLE: Vanlig Sida -->
+<!-- TITLE: Standardsida -->
 <!-- SUBTITLE: A quick summary of Vanlig Sida -->
 
-# Vanlig-/Standard-sida
+# Standardsida
