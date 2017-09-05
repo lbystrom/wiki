@@ -3,27 +3,27 @@
 
 # Svenska Bostäder Wiki -Innehåll
 Dokumentationen är indelad i följande kapitel.
-## Schemalagda Jobb
+# Schemalagda Jobb
 [Schemalagda Jobb](http://mywiki/schemalagda-jobb#schemalagda-jobb)
-### SB - EPiServer Find Content Indexing Job
+## SB - EPiServer Find Content Indexing Job
 
-### SB - Fastighetsindexerare
+## SB - Fastighetsindexerare
 
-### SB - Kartkoordinater
+## SB - Kartkoordinater
 
-### SB - Tagglistuppdaterare
+## SB - Tagglistuppdaterare
 
-### SB - Import av bovärdar
+## SB - Import av bovärdar
 
-### SB - Importera Adresstaggar
+## SB - Importera Adresstaggar
 
-### SB - Import av lediga lokaler
+## SB - Import av lediga lokaler
 
-### SB - Import av lediga jobb
-## E-tjänster
+## SB - Import av lediga jobb
+# E-tjänster
 [E-tjänster](http://mywiki/e-tjanster#e-tjanster)
-## Sidtyper
+# Sidtyper
 [Sidtyper](http://mywiki/sidtyper#sidtyper)
-## Blocktyper
+# Blocktyper
 [Blocktyper](http://mywiki/blocktyper#blocktyper)
-## Allmänt
+# Allmänt
