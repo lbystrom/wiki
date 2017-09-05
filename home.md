@@ -22,28 +22,28 @@ Dokumentationen är indelad i följande kapitel.
 ## SB - Import av lediga jobb
 # E-tjänster
 [E-tjänster](http://mywiki/e-tjanster#e-tjanster)
-## E-tjänst: Beställ låsbricka
+## Beställ låsbricka
 
-## E-tjänst: Andrahandsuthyrning
+## Andrahandsuthyrning
 
-## E-tjänst: Aptusportal
+## Aptusportal
 [Läs mer](/e-tjanster/aptus-portal)
 
-## E-tjänst: Byt pinkod
+## Byt pinkod
 
-## E-tjänst: Felanmälan (inloggad) [NY]
+## Felanmälan (inloggad) [NY]
 
-## E-tjänst: Felanmälan (oinloggad) [NY]
+## Felanmälan (oinloggad) [NY]
 
-## E-tjänst: Hyresavier
+## Hyresavier
 
-## E-tjänst: Hämta pinkod
+## Hämta pinkod
 
-## E-Tjänst: Lediga bilplatser
+## Lediga bilplatser
 
-## E-tjänst: Säga upp hyresavtal
+## Säga upp hyresavtal
 
-## E-tjänst: Stilval
+## Stilval
 # Sidtyper
 [Sidtyper](http://mywiki/sidtyper#sidtyper)
 # Blocktyper
