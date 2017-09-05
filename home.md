@@ -10,4 +10,4 @@ Dokumentationen är indelad i följande kapitel.
 ## Blocktyper
 [Blocktyper](http://mywiki/blocktyper#blocktyper)
 ## Schemalagda Jobb
-[Schemalagda Jobb](http://mywiki/blocktyper#blocktyper)
+[Schemalagda Jobb](http://mywiki/schemalagda-jobb#schemalagda-jobb)
