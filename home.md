@@ -4,6 +4,6 @@
 # Svenska Bostäder Wiki
 ## Innehåll
 ### E-tjänster
-[E-tjänster](http://mywiki/e-tjanster#e-tjanster)
+### [E-tjänster](http://mywiki/e-tjanster#e-tjanster)
 ### Sidtyper
 ### Blocktyper
