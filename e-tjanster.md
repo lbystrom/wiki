@@ -7,7 +7,7 @@
 ## E-tjänst: Andrahandsuthyrning
 
 ## E-tjänst: Aptusportal
-[Läs mer](http://mywiki/e-tjanster/boka-tvattsuga#boka-tvattstuga)
+[Läs mer](/e-tjanster/aptus-portal)
 
 ## E-tjänst: Byt pinkod
 
