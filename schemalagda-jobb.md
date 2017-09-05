@@ -2,10 +2,18 @@
 <!-- SUBTITLE: A quick summary of Schemalagda Jobb -->
 
 # Schemalagda Jobb
-## Import - Lediga Jobb
+## SB - EPiServer Find Content Indexing Job
 
-## Import - Fastigheter
+## SB - Fastighetsindexerare
 
-## Import - Lokaler
+## SB - Kartkoordinater
 
-## Misc
+## SB - Tagglistuppdaterare
+
+## SB - Import av bovärdar
+
+## SB - Importera Adresstaggar
+
+## SB - Import av lediga lokaler
+
+## SB - Import av lediga jobb
