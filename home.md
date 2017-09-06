@@ -56,10 +56,6 @@ Dokumentationen är indelad i följande kapitel.
 # Sidtyper
 [Sidtyper](http://mywiki/sidtyper#sidtyper)
 
-<!-- TITLE: Sidtyper -->
-<!-- SUBTITLE: A quick summary of Sidtyper -->
-
-# Sidtyper
 ## Aktuellt i ditt område
 
 ## Artikelsida
