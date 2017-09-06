@@ -26,8 +26,6 @@
 
 ## Kontaktsida
 
-## Landningssida: Lokaler
-
 ## Lediga jobb - lista
 
 ## Lediga lokaler - lista
@@ -53,6 +51,8 @@
 ## Startsida
 
 ## Söksida
+
+## Landningssida: Lokaler
 
 ## [Landningssidor] Landningssida: Bild/ikon
 
