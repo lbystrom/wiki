@@ -32,40 +32,40 @@
 
 ## OfficeOpeningHoursBlock
 
-## [Kontaktsida] Kontaktsida: Kundcenter
+## [Kontaktsida] 
+### Kontaktsida: Kundcenter
 
-## [Kontaktsida] Kontaktsida: Kontaktbox
+### Kontaktsida: Kontaktbox
 
-## [Kontaktsida] Kontaktsida: Fäll ut/in
+### Kontaktsida: Fäll ut/in
 
-## [Kontaktsida] Kontaktsida: Textblock
+### Kontaktsida: Textblock
 
-## [Kontaktsida] Kontaktsida: Dynamiskt kontaktblock
+### Kontaktsida: Dynamiskt kontaktblock
 
-## [Kontaktsida] Kontaktsida: Områdeskontorbox
+### Kontaktsida: Områdeskontorbox
 
-## [Kontaktsida] Kontaktsida: Områdeskontor öppettider
+### Kontaktsida: Områdeskontor öppettider
 
-## [Kontaktsida] Kontaktsida: Telefonnummer
+### Kontaktsida: Telefonnummer
+
+## [Hjälp] Hjälptextblock
+
+## AdvancedContactBlock2
 
 ## [Administrativa inställningar] Schemaläggning
 
 ## [Administrativa inställningar] Lokalinformation - inställningar
+
+## [Administrativa inställningar] Schemalagda jobb
+
+## [Intresseanmälan] Intresseanmälan
 
 ## Inställningsblock för avtalsstatus på p-platser
 
 ## Inställningsblock för typer av p-platser
 
 ## Inställningsblock för statustexter för Ledig bilplats
-
-## [Intresseanmälan] Intresseanmälan
-
-## [Hjälp] Hjälptextblock
-
-## AdvancedContactBlock2
-
-## [Administrativa inställningar] Schemalagda jobb
-
 
 ## Inställningsblock för etiketter för p-platser
 
@@ -82,11 +82,11 @@
 
 ## FaqListBlock
 
-## [Frågor och svar] FAQ-block
-
-## [Frågor och svar] FAQ-block för Områdessidor
-
 ## [Frågor och svar] 
+### FAQ-block
+
+### FAQ-block för Områdessidor
+
 ### FAQ: Utvalda kategorier
 
 ### FAQ: Sidans kategorier
