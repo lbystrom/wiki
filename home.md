@@ -56,6 +56,10 @@ Dokumentationen är indelad i följande kapitel.
 # Sidtyper
 [Sidtyper](http://mywiki/sidtyper#sidtyper)
 
+<!-- TITLE: Sidtyper -->
+<!-- SUBTITLE: A quick summary of Sidtyper -->
+
+# Sidtyper
 ## Aktuellt i ditt område
 
 ## Artikelsida
@@ -79,8 +83,6 @@ Dokumentationen är indelad i följande kapitel.
 ## Kontakt - listsida
 
 ## Kontaktsida
-
-## Landningssida: Lokaler
 
 ## Lediga jobb - lista
 
@@ -107,6 +109,8 @@ Dokumentationen är indelad i följande kapitel.
 ## Startsida
 
 ## Söksida
+
+## Landningssida: Lokaler
 
 ## [Landningssidor] Landningssida: Bild/ikon
 
