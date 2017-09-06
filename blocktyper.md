@@ -2,45 +2,23 @@
 <!-- SUBTITLE: A quick summary of Blocktyper -->
 
 # Blocktyper
-## [Intresseanmälan] Intresseanmälan
-
-## [Frågor och svar] FAQ-block för Områdessidor
-
-## Inställningsblock för etiketter för p-platser
-
-## [Kontaktsida] Kontaktsida: Telefonnummer
-
-## [Administrativa inställningar] Schemaläggning
-
-## [Frågor och svar] FAQ-block
-
-## [Kontaktsida] Kontaktsida: Områdeskontor öppettider
-
-## [Administrativa inställningar] Lokalinformation - inställningar
-
 ## Bekräftelse och felmeddelande
 
 ## Personblock
 
-## [Kontaktsida] Kontaktsida: Områdeskontorbox
+## Historia - årtalsblock
 
-## Inställningsblock för avtalsstatus på p-platser
+## Relaterad information
 
-## Inställningsblock för typer av p-platser
+## Lägesbeskrivning
 
-## Inställningsblock för statustexter för Ledig bilplats
+## Bostadspuff
 
-## AdvancedContactBlock2
+## FooterBlock
 
-## [Kontaktsida] Kontaktsida: Fäll ut/in
+## Filmblock
 
-## [Kontaktsida] Kontaktsida: Textblock
-
-## [Kontaktsida] Kontaktsida: Dynamiskt kontaktblock
-
-## [Administrativa inställningar] Schemalagda jobb
-
-## [Hjälp] Hjälptextblock
+## Bild/ikon-länk
 
 ## Krismeddelande
 
@@ -58,31 +36,55 @@
 
 ## [Kontaktsida] Kontaktsida: Kontaktbox
 
-## Lägesbeskrivning
+## [Kontaktsida] Kontaktsida: Fäll ut/in
 
-## Bostadspuff
+## [Kontaktsida] Kontaktsida: Textblock
 
-## FooterBlock
+## [Kontaktsida] Kontaktsida: Dynamiskt kontaktblock
 
-## Faq Instruktionsblock
+## [Kontaktsida] Kontaktsida: Områdeskontorbox
+
+## [Kontaktsida] Kontaktsida: Områdeskontor öppettider
+
+## [Kontaktsida] Kontaktsida: Telefonnummer
+
+## [Administrativa inställningar] Schemaläggning
+
+## [Administrativa inställningar] Lokalinformation - inställningar
+
+## Inställningsblock för avtalsstatus på p-platser
+
+## Inställningsblock för typer av p-platser
+
+## Inställningsblock för statustexter för Ledig bilplats
+
+## [Intresseanmälan] Intresseanmälan
+
+## [Hjälp] Hjälptextblock
+
+## AdvancedContactBlock2
+
+## [Administrativa inställningar] Schemalagda jobb
+
+
+## Inställningsblock för etiketter för p-platser
 
 ## Inställningar för områden
 
 ## Anpassad sökning
 
-## Historia - årtalsblock
+## [FilterInfo] 
+### Kontraktsform
 
-## Relaterad information
+### Fastighetsstatus
 
-## [FilterInfo] Kontraktsform
-
-## [FilterInfo] Fastighetsstatus
+## Faq Instruktionsblock
 
 ## FaqListBlock
 
-## Filmblock
+## [Frågor och svar] FAQ-block
 
-## Bild/ikon-länk
+## [Frågor och svar] FAQ-block för Områdessidor
 
 ## [Frågor och svar] 
 ### FAQ: Utvalda kategorier
