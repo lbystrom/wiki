@@ -84,14 +84,15 @@
 
 ## Bild/ikon-länk
 
-## [Frågor och svar] FAQ: Utvalda kategorier
+## [Frågor och svar] 
+### FAQ: Utvalda kategorier
 
-## [Frågor och svar] FAQ: Sidans kategorier
+### FAQ: Sidans kategorier
 
-## [Frågor och svar] FAQ: Sidans områden
+### FAQ: Sidans områden
 
-## [Frågor och svar] FAQ: Område från påloggad användare
+### FAQ: Område från påloggad användare
 
-## [Frågor och svar] FAQ: Utvalda frågor
+### FAQ: Utvalda frågor
 
-## [Frågor och svar] FAQ: Taggar från sidans facetter
+### FAQ: Taggar från sidans facetter
