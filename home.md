@@ -196,11 +196,11 @@ Dokumentationen är indelad i följande kapitel.
 
 ## FaqListBlock
 
-## [Frågor och svar] FAQ-block
-
-## [Frågor och svar] FAQ-block för Områdessidor
-
 ## [Frågor och svar] 
+### FAQ-block
+
+### FAQ-block för Områdessidor
+
 ### FAQ: Utvalda kategorier
 
 ### FAQ: Sidans kategorier
